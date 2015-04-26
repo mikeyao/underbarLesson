@@ -1,21 +1,21 @@
 ## Underbar
-* [ ] Implement an `.each` function check
+* [ ] Implement an `.each` function
 - Requires: none
 
 ## Underbar
-* [ ] Implement a `.reduce` function check
+* [ ] Implement a `.reduce` function
 - Requires: _.each
 
 ## Underbar
-* [ ] Implement a `.contains` function check
+* [ ] Implement a `.contains` function
 - Requires: _.reduce
 
 ## Underbar
-* [ ] Implement a `.defaults` function check
+* [ ] Implement a `.defaults` function
 - Requires: _.each
 
 ## Underbar
-* [ ] Implement a `.once` function check
+* [ ] Implement a `.once` function
 - Requires: just some fancy smancy stuff
 
 ## Underbar
